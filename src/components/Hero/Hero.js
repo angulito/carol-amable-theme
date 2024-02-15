@@ -21,7 +21,7 @@ const Hero = (props) => {
       <div className={styles.content} style={{ maxWidth: maxWidth }}>
         {header && <span className={styles.header}>{header}</span>}
         {title && <h2 className={styles.title}  style={{"color" : 'black', "fontWeight": "bold"}}>{title}</h2>}
-        {subtitle && <span className={styles.subtitle} style={{"color" : 'white', "fontWeight": "bold"}}>{subtitle}</span>}
+        {subtitle && <span className={styles.subtitle} style={{"color" : 'gray', "fontWeight": "bold"}}>{subtitle}</span>}
         {ctaText && (
           <Button
             className={`${styles.ctaButton} ${ctaStyle}`}
