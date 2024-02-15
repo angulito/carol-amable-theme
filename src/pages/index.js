@@ -28,7 +28,7 @@ const IndexPage = () => {
       <div className={styles.messageContainer}>
         
         <h1 style={{"font-size" : '32px'}}>
-        ¡Felicitaciones, Carol! 🎉
+        Felicidades, Carol! 🎉
         </h1>
         <h1 style={{"font-size" : '32px'}}>
         Tu creatividad ilumina cada aula y tus habilidades artísticas inspiran a todos. Que este año te traiga más momentos para disfrutar de tus juegos de mesa favoritos, y que los sigamos disfrutando juntos, incluso aunque nos ganes! Sigue plasmando tu arte en cada lienzo de la vida, porque eres genial. ¡Felicidades en tu día! 🎨🎲🎂❤️
