@@ -12,7 +12,7 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/terra-cumple.png'}
+        image={'/terra-cumple-2.png'}
         title={'FELIZ SUPER CUMPLEAÑOS CAROL'}
         subtitle={'Eres una persona muy amable, buena amiga y maravillosamente genial, te mereces lo mejor!'}
 
